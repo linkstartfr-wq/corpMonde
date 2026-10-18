@@ -1,0 +1,59 @@
+{
+  "scene": "18E_PARCOURS_BOUCHE_GLUCOSE_FOIE_COEUR",
+  "fps": 30,
+  "status": "timing_prepared_modals_pending_in_app",
+  "slowdown_frames": [
+    2262.0,
+    4062.0
+  ],
+  "windows": [
+    {
+      "label": "Arrivee et circulation dans le foie",
+      "source_frames": [
+        2290,
+        2332
+      ],
+      "frames": [
+        2314,
+        2542
+      ],
+      "duration_seconds": 7.583333333333818
+    },
+    {
+      "label": "Entree du glucose dans les cellules",
+      "source_frames": [
+        2332,
+        2405
+      ],
+      "frames": [
+        2542,
+        2937
+      ],
+      "duration_seconds": 13.180555555556445
+    },
+    {
+      "label": "Stockage sous forme de glycogene",
+      "source_frames": [
+        2405,
+        2480
+      ],
+      "frames": [
+        2937,
+        3343
+      ],
+      "duration_seconds": 13.541666666665726
+    },
+    {
+      "label": "Glucose restant et sortie du foie",
+      "source_frames": [
+        2480,
+        2580
+      ],
+      "frames": [
+        3343,
+        3885
+      ],
+      "duration_seconds": 18.055555555555415
+    }
+  ]
+}

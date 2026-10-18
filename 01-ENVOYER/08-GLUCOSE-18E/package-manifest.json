@@ -1,0 +1,122 @@
+{
+  "schema": "corps-monde-upload-package/1",
+  "files": [
+    {
+      "path": "routes/18e/app-contracts/foie-modales-app.json",
+      "bytes": 1151,
+      "sha256": "3264ace81d2fb2c9372d6285f640ecaae9cb4f253e5eb6c0870c6f83e270152a"
+    },
+    {
+      "path": "routes/18e/app-contracts/pomme-dissolve-app.json",
+      "bytes": 7042,
+      "sha256": "090aa8392008c7d8208dc6cd08be28d25ee3d7629b95ee210e302eb51297191b"
+    },
+    {
+      "path": "routes/18e/data/camera.json.gz",
+      "bytes": 598002,
+      "sha256": "41458aadd42bca96bd1f9ca71fca8f6ed2747048c43b047ad741218f686dd08f"
+    },
+    {
+      "path": "routes/18e/data/helpers.json.gz",
+      "bytes": 88386,
+      "sha256": "4c841ab4d6a0b29879bd2b0405b67ee06471d7d7e028fd976ed7f68faeeb6f49"
+    },
+    {
+      "path": "routes/18e/data/objects.json.gz",
+      "bytes": 16605570,
+      "sha256": "4585b5a83e0ea810cd76a5e6f0ff4e2f64fe93352f0f5c834ae22c7f41da5d6a"
+    },
+    {
+      "path": "routes/18e/LIRE-MOI.md",
+      "bytes": 1342,
+      "sha256": "fd922c7860c1c0c6aa844073e8d843eb54ee281f886543d5c5348c55e400aac9"
+    },
+    {
+      "path": "routes/18e/manifest.json",
+      "bytes": 8197,
+      "sha256": "bb7bb896b5113f77fe5e68c1f950cb19fd24cc10036886c003c4a5767c127c8b"
+    },
+    {
+      "path": "routes/18e/materialbindings18E.json",
+      "bytes": 933429,
+      "sha256": "91dfb5af9948d10faf7ba6fa1a874eaced2c87f75b705f7e468f487e91c5b006"
+    },
+    {
+      "path": "routes/18e/models/parcours18E.glb",
+      "bytes": 12623608,
+      "sha256": "1610e8c26dbd04e8c919265a9c2a9d974cb9fe5b81be7a27ca39c9eff03c014c"
+    },
+    {
+      "path": "routes/18e/validation.json",
+      "bytes": 8576,
+      "sha256": "92795d566b6945a675b32c976e9a98677f97c26072c8694708d2bb053befb3f1"
+    },
+    {
+      "path": "shared/textures/232e1ee1068ce83e8a24bb64.png",
+      "bytes": 1803831,
+      "sha256": "232e1ee1068ce83e8a24bb643e9f3dbded415907ba66e6a356156b409b822c56"
+    },
+    {
+      "path": "shared/textures/2581517ae195d64f6cb843f7.png",
+      "bytes": 1655519,
+      "sha256": "2581517ae195d64f6cb843f7d2397bd2d3ffc19de452076855cbbd96709e1d61"
+    },
+    {
+      "path": "shared/textures/b4edc94d0d4eaa10cb57fea7.png",
+      "bytes": 4066176,
+      "sha256": "b4edc94d0d4eaa10cb57fea78763163c1a3dd8321b1db36b7a0f87f18b8d17d3"
+    },
+    {
+      "path": "shared/textures/catalog.json",
+      "bytes": 15899,
+      "sha256": "53e753c841281c5a040e5d14bfdcf071e646faeb0964671355d886a884243636"
+    }
+  ],
+  "dependencies": [
+    {
+      "path": "05-LOT/textures/shared/2a273414628828047b312656.png",
+      "sha256": "2a273414628828047b312656bbe6370bb8144828494079898ade7fd5dd345292",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/2a273414628828047b312656.png"
+    },
+    {
+      "path": "05-LOT/textures/shared/f60aea5a58c3c9087d067f64.png",
+      "sha256": "f60aea5a58c3c9087d067f6434ef6fa8c90fcc5b1947c492fda0643f389d7a06",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/f60aea5a58c3c9087d067f64.png"
+    },
+    {
+      "path": "06-LOT/textures/shared/7094446026e9506d5e5edbfb.png",
+      "sha256": "7094446026e9506d5e5edbfbfe25c117c147ac79ac341136c861242e65f4dab9",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/7094446026e9506d5e5edbfb.png"
+    },
+    {
+      "path": "06-LOT/textures/shared/9acc9aec6a7ca4470ab11270.png",
+      "sha256": "9acc9aec6a7ca4470ab11270d6d7222ef11f8f5f553876c7e268f66a8fcaa53b",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/9acc9aec6a7ca4470ab11270.png"
+    },
+    {
+      "path": "04-LOT/textures/langue_color.png",
+      "sha256": "d3ae16781ee31e9d0a57ab3359e3074176d1ccf16856324decd5a311b2fa283b",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/04-LOT/textures/langue_color.png"
+    },
+    {
+      "path": "04-LOT/textures/langue_normal.png",
+      "sha256": "3f7cedffac42a82f8c26c928129ff935ba6a5fcc7dd0cfd908c3cd32b427ffc3",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/04-LOT/textures/langue_normal.png"
+    },
+    {
+      "path": "06-LOT/textures/langue_rough.png",
+      "sha256": "6600157f19ecb3b2c816fdeac64c2589f99dddf32e2a98b19dc555a865601cda",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/langue_rough.png"
+    },
+    {
+      "path": "05-LOT/textures/shared/fca90446ce99e39cd8ccc5f9.png",
+      "sha256": "fca90446ce99e39cd8ccc5f9290f345c9ca46ce70a47a648b81a87a0282d49f9",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/fca90446ce99e39cd8ccc5f9.png"
+    },
+    {
+      "path": "06-LOT/textures/shared/9a8dcfbbc54d1e877a782a49.png",
+      "sha256": "9a8dcfbbc54d1e877a782a4966bee42b7de68be3920af77ed6577b061490db21",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/9a8dcfbbc54d1e877a782a49.png"
+    }
+  ]
+}

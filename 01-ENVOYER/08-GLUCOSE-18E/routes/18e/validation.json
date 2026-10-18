@@ -1,0 +1,154 @@
+{
+  "passed": true,
+  "source": "Original CPU/native/Draco reports retained in C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\route18e-final-20261018",
+  "sourceModelSha256": "e47cf289bda33e05e2c541eebb5a60520e6d33b8ef19e8d663e7f01fdb96af77",
+  "newModelSha256": "1610e8c26dbd04e8c919265a9c2a9d974cb9fe5b81be7a27ca39c9eff03c014c",
+  "binaryBytesPreserved": true,
+  "meshAndMaterialDeclarationsPreserved": true,
+  "cameraAndObjectsJSONPreserved": true,
+  "frameEnd": 4616,
+  "objects": 606,
+  "publishedImagesReused": 9,
+  "newPNGs": 3,
+  "duplicateUploadBytesRemoved": 48004434,
+  "allRuntimePathsResolvedLocally": true,
+  "networkValidation": "Published commit/path receipt and matching local files; no upload or new remote availability check performed.",
+  "pixelVerification": "Blender decoder, 8-bit PNG RGBA values and ICC, with no image resampling or compression.",
+  "reuse": [
+    {
+      "sourcePath": "textures/coeur_color.png",
+      "sourceBytes": 5848739,
+      "sourceSha256": "2a273414628828047b312656bbe6370bb8144828494079898ade7fd5dd345292",
+      "runtimeSha256": "2a273414628828047b312656bbe6370bb8144828494079898ade7fd5dd345292",
+      "publishedPath": "05-LOT/textures/shared/2a273414628828047b312656.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/2a273414628828047b312656.png",
+      "match": "identical_bytes",
+      "pixelSha256": "f57faa9c8be618c74b0c17c4e2e32d3d4cb76653f0b8bacc5c703c49ca627f91"
+    },
+    {
+      "sourcePath": "textures/coeur_normal.png",
+      "sourceBytes": 6118500,
+      "sourceSha256": "f60aea5a58c3c9087d067f6434ef6fa8c90fcc5b1947c492fda0643f389d7a06",
+      "runtimeSha256": "f60aea5a58c3c9087d067f6434ef6fa8c90fcc5b1947c492fda0643f389d7a06",
+      "publishedPath": "05-LOT/textures/shared/f60aea5a58c3c9087d067f64.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/f60aea5a58c3c9087d067f64.png",
+      "match": "identical_bytes",
+      "pixelSha256": "d65ad8be7ce320555a12be7a7cb83b90600a5012dc76a19a4b37e3664f5cb21c"
+    },
+    {
+      "sourcePath": "textures/gltf-7094446026e9506d5e5e.png",
+      "sourceBytes": 3005125,
+      "sourceSha256": "7094446026e9506d5e5edbfbfe25c117c147ac79ac341136c861242e65f4dab9",
+      "runtimeSha256": "7094446026e9506d5e5edbfbfe25c117c147ac79ac341136c861242e65f4dab9",
+      "publishedPath": "06-LOT/textures/shared/7094446026e9506d5e5edbfb.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/7094446026e9506d5e5edbfb.png",
+      "match": "identical_bytes",
+      "pixelSha256": "1ac838d5efe3c12f92220ee504812cf24a15b9764cfab0a58a476f7750a9bbb5"
+    },
+    {
+      "sourcePath": "textures/gltf-9acc9aec6a7ca4470ab1.png",
+      "sourceBytes": 3227313,
+      "sourceSha256": "9acc9aec6a7ca4470ab11270d6d7222ef11f8f5f553876c7e268f66a8fcaa53b",
+      "runtimeSha256": "9acc9aec6a7ca4470ab11270d6d7222ef11f8f5f553876c7e268f66a8fcaa53b",
+      "publishedPath": "06-LOT/textures/shared/9acc9aec6a7ca4470ab11270.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/9acc9aec6a7ca4470ab11270.png",
+      "match": "identical_bytes",
+      "pixelSha256": "581817ad3bcbdac680c0e2874f2fcb9ff50c21ab543675dcd37408d2b7ae1c80"
+    },
+    {
+      "sourcePath": "textures/langue_color.png",
+      "sourceBytes": 8694765,
+      "sourceSha256": "f2f8a37a20efd40867e52ff7724b38230b29683a9f10d893c6d4e0fc07bb0c49",
+      "runtimeSha256": "d3ae16781ee31e9d0a57ab3359e3074176d1ccf16856324decd5a311b2fa283b",
+      "publishedPath": "04-LOT/textures/langue_color.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/04-LOT/textures/langue_color.png",
+      "match": "identical_8bit_RGBA_pixels_and_ICC",
+      "pixelSha256": "a1dd02a9fc71d6a10caa9283fcbf32b6ea5b0ccf2689e7fd6fe48d0ba186922f"
+    },
+    {
+      "sourcePath": "textures/langue_normal.png",
+      "sourceBytes": 7264359,
+      "sourceSha256": "2c8e7fe1a2a573218c9bc0d93d7ef4cb5f6212a2d4cd91bbdb7b2e81d8ce84c7",
+      "runtimeSha256": "3f7cedffac42a82f8c26c928129ff935ba6a5fcc7dd0cfd908c3cd32b427ffc3",
+      "publishedPath": "04-LOT/textures/langue_normal.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/04-LOT/textures/langue_normal.png",
+      "match": "identical_8bit_RGBA_pixels_and_ICC",
+      "pixelSha256": "636769e95591d2a85bd1be3652ccb490a0ab3629131374ab92951e4bc0ead876"
+    },
+    {
+      "sourcePath": "textures/langue_roughness.png",
+      "sourceBytes": 2500962,
+      "sourceSha256": "b8dc4277fa81bfbda3fe04906abf0cbb06ee82f9170797f9c97894b425fa9a91",
+      "runtimeSha256": "6600157f19ecb3b2c816fdeac64c2589f99dddf32e2a98b19dc555a865601cda",
+      "publishedPath": "06-LOT/textures/langue_rough.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/langue_rough.png",
+      "match": "identical_8bit_RGBA_pixels_and_ICC",
+      "pixelSha256": "9a6964c7c01df585de7a416de494a10064c6f1edd594a26def3ff842afd15ded"
+    },
+    {
+      "sourcePath": "textures/paroi_color_long.png",
+      "sourceBytes": 5968217,
+      "sourceSha256": "fca90446ce99e39cd8ccc5f9290f345c9ca46ce70a47a648b81a87a0282d49f9",
+      "runtimeSha256": "fca90446ce99e39cd8ccc5f9290f345c9ca46ce70a47a648b81a87a0282d49f9",
+      "publishedPath": "05-LOT/textures/shared/fca90446ce99e39cd8ccc5f9.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/05-LOT/textures/shared/fca90446ce99e39cd8ccc5f9.png",
+      "match": "identical_bytes",
+      "pixelSha256": "884509c90316a9f2397d1f4e5776c1dc18613724169b5d2e1b6700b6b2ceb089"
+    },
+    {
+      "sourcePath": "textures/paroi_normal_long.png",
+      "sourceBytes": 5376454,
+      "sourceSha256": "9a8dcfbbc54d1e877a782a4966bee42b7de68be3920af77ed6577b061490db21",
+      "runtimeSha256": "9a8dcfbbc54d1e877a782a4966bee42b7de68be3920af77ed6577b061490db21",
+      "publishedPath": "06-LOT/textures/shared/9a8dcfbbc54d1e877a782a49.png",
+      "uri": "https://raw.githubusercontent.com/linkstartfr-wq/corpMonde/25a076b5c53dba62684e8ebdff8cd58c55e75571/06-LOT/textures/shared/9a8dcfbbc54d1e877a782a49.png",
+      "match": "identical_bytes",
+      "pixelSha256": "41e8c02242d4ae004f0e52787b7bb0fb7b3510b6277dfdb41f57ec1f0efce74b"
+    }
+  ],
+  "newImages": [
+    {
+      "sourcePath": "textures/coeur_roughness.png",
+      "id": "2581517ae195d64f6cb843f7d2397bd2d3ffc19de452076855cbbd96709e1d61",
+      "uri": "2581517ae195d64f6cb843f7.png",
+      "repositoryPath": "08-GLUCOSE-18E/shared/textures/2581517ae195d64f6cb843f7.png",
+      "bytes": 1655519,
+      "sha256": "2581517ae195d64f6cb843f7d2397bd2d3ffc19de452076855cbbd96709e1d61",
+      "pixelSha256": "26289e14e72726636042498c02c7d7b04c0178395d88840560d5d66fd49f5daa",
+      "size": [
+        2048,
+        2048
+      ],
+      "status": "new_upload"
+    },
+    {
+      "sourcePath": "textures/gltf-b4edc94d0d4eaa10cb57.png",
+      "id": "b4edc94d0d4eaa10cb57fea78763163c1a3dd8321b1db36b7a0f87f18b8d17d3",
+      "uri": "b4edc94d0d4eaa10cb57fea7.png",
+      "repositoryPath": "08-GLUCOSE-18E/shared/textures/b4edc94d0d4eaa10cb57fea7.png",
+      "bytes": 4066176,
+      "sha256": "b4edc94d0d4eaa10cb57fea78763163c1a3dd8321b1db36b7a0f87f18b8d17d3",
+      "pixelSha256": "9c8846b88fccbca15c15ce7b1031baae45648b52d8bc55f80b440dc028d758ca",
+      "size": [
+        2048,
+        2048
+      ],
+      "status": "new_upload"
+    },
+    {
+      "sourcePath": "textures/paroi_roughness_long.png",
+      "id": "232e1ee1068ce83e8a24bb643e9f3dbded415907ba66e6a356156b409b822c56",
+      "uri": "232e1ee1068ce83e8a24bb64.png",
+      "repositoryPath": "08-GLUCOSE-18E/shared/textures/232e1ee1068ce83e8a24bb64.png",
+      "bytes": 1803831,
+      "sha256": "232e1ee1068ce83e8a24bb643e9f3dbded415907ba66e6a356156b409b822c56",
+      "pixelSha256": "08d914d898f7a6a5a0142819e416dd555b39e1f503a3a6a3b3c42480373a9fba",
+      "size": [
+        2048,
+        2048
+      ],
+      "status": "new_upload"
+    }
+  ],
+  "boundary": "Data and package validation only; no app render."
+}

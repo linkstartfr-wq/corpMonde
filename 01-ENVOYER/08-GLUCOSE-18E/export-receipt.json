@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "schema": "18e-shared-export/1",
+  "date": "2026-10-18",
+  "directory": "C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\github-hosting\\glisser-deposer\\08-GLUCOSE-18E",
+  "uploadFolders": "C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\github-hosting\\envois-glucose-18e",
+  "sourceSnapshot": "C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\route18e-final-20261018\\18E_SOURCE_AUTONOME.blend",
+  "frameEnd": 4616,
+  "objects": 606,
+  "triangles": 2090302,
+  "sourcePreserved": true,
+  "appModified": false,
+  "pushed": false,
+  "oldTextureBytes": 55529960,
+  "newTextureBytes": 7525526,
+  "texturesReused": 9,
+  "newTextures": 3,
+  "bytesSavedByTextureReuse": 48004434,
+  "sharedCatalog": "shared/textures/catalog.json",
+  "fullReportsKeptIn": "C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\route18e-final-20261018",
+  "previousExportArchivedTo": "C:\\Users\\ahmil\\Documents\\Codex\\2026-10-06\\tu\\outputs\\route18e-final-20261018\\archive\\08-GLUCOSE-18E-avant-deduplication"
+}

@@ -1,0 +1,240 @@
+{
+  "scene": "18E_PARCOURS_BOUCHE_GLUCOSE_FOIE_COEUR",
+  "fps": 30.0,
+  "group": "18E_apple_food",
+  "arrival_frame": 40,
+  "fracture_start_frame": 70,
+  "fracture_end_frame": 100,
+  "dissolve_start_frame": 100,
+  "dissolve_end_frame": 130,
+  "dissolve_start_seconds": 3.3333333333333335,
+  "dissolve_end_seconds": 4.333333333333333,
+  "fragments": [
+    "18E | Pomme - fragment 1",
+    "18E | Pomme - fragment 2",
+    "18E | Pomme - fragment 3",
+    "18E | Pomme - fragment 4",
+    "18E | Pomme - fragment 5",
+    "18E | Pomme - fragment 6",
+    "18E | Pomme - fragment 7",
+    "18E | Pomme - fragment 8",
+    "18E | Pomme - fragment 9",
+    "18E | Pomme - fragment 10",
+    "18E | Pomme - fragment 11",
+    "18E | Pomme - fragment 12",
+    "18E | Pomme - fragment 13",
+    "18E | Pomme - fragment 14",
+    "18E | Pomme - fragment 15",
+    "18E | Pomme - fragment 16",
+    "18E | Pomme - fragment 17",
+    "18E | Pomme - fragment 18",
+    "18E | Pomme - fragment 19",
+    "18E | Pomme - fragment 20",
+    "18E | Pomme - fragment 21",
+    "18E | Pomme - fragment 22",
+    "18E | Pomme - fragment 23",
+    "18E | Pomme - fragment 24",
+    "18E | Pomme - fragment 25",
+    "18E | Pomme - fragment 26",
+    "18E | Pomme - fragment 27",
+    "18E | Pomme - fragment 28",
+    "18E | Pomme - fragment 29",
+    "18E | Pomme - fragment 30",
+    "18E | Pomme - fragment 31",
+    "18E | Pomme - fragment 32",
+    "18E | Pomme - fragment 33",
+    "18E | Pomme - fragment 34",
+    "18E | Pomme - fragment 35",
+    "18E | Pomme - fragment 36",
+    "18E | Pomme - queue"
+  ],
+  "particles": [
+    {
+      "particle": "18E | Pomme - bille rouge 1",
+      "source_fragment": "18E | Pomme - fragment 20",
+      "color": "red",
+      "local_rest_offset": [
+        -0.27756550908088684,
+        -0.6081816554069519,
+        -1.3724839687347412
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 2",
+      "source_fragment": "18E | Pomme - fragment 18",
+      "color": "white",
+      "local_rest_offset": [
+        -0.4757500886917114,
+        -0.008141928352415562,
+        0.26220008730888367
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 3",
+      "source_fragment": "18E | Pomme - fragment 31",
+      "color": "red",
+      "local_rest_offset": [
+        -0.726651132106781,
+        0.2977556884288788,
+        1.5974701642990112
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 4",
+      "source_fragment": "18E | Pomme - fragment 33",
+      "color": "white",
+      "local_rest_offset": [
+        0.0023498297668993473,
+        -0.7248342037200928,
+        -0.7799683213233948
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 5",
+      "source_fragment": "18E | Pomme - fragment 9",
+      "color": "red",
+      "local_rest_offset": [
+        -0.5567033290863037,
+        0.013111702166497707,
+        2.0671725273132324
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 6",
+      "source_fragment": "18E | Pomme - fragment 14",
+      "color": "white",
+      "local_rest_offset": [
+        -0.8081465363502502,
+        -0.30664879083633423,
+        -1.087660789489746
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 7",
+      "source_fragment": "18E | Pomme - fragment 3",
+      "color": "red",
+      "local_rest_offset": [
+        -0.8302195072174072,
+        -0.5966152548789978,
+        0.9110196828842163
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 8",
+      "source_fragment": "18E | Pomme - fragment 13",
+      "color": "white",
+      "local_rest_offset": [
+        -0.31280601024627686,
+        -0.29084280133247375,
+        1.849139928817749
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 9",
+      "source_fragment": "18E | Pomme - fragment 25",
+      "color": "red",
+      "local_rest_offset": [
+        0.7362393736839294,
+        -0.40836596488952637,
+        -0.42155691981315613
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 10",
+      "source_fragment": "18E | Pomme - fragment 4",
+      "color": "white",
+      "local_rest_offset": [
+        0.03291671350598335,
+        -0.7435131072998047,
+        1.2009904384613037
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 11",
+      "source_fragment": "18E | Pomme - fragment 19",
+      "color": "red",
+      "local_rest_offset": [
+        0.5813089609146118,
+        0.16859376430511475,
+        -1.772430419921875
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 12",
+      "source_fragment": "18E | Pomme - fragment 15",
+      "color": "white",
+      "local_rest_offset": [
+        0.7238371968269348,
+        -0.103316530585289,
+        0.6259253025054932
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 13",
+      "source_fragment": "18E | Pomme - fragment 34",
+      "color": "red",
+      "local_rest_offset": [
+        0.7528253793716431,
+        0.6657230257987976,
+        1.5956791639328003
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 14",
+      "source_fragment": "18E | Pomme - fragment 32",
+      "color": "white",
+      "local_rest_offset": [
+        0.030281944200396538,
+        -0.30674782395362854,
+        -0.7455483675003052
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille rouge 15",
+      "source_fragment": "18E | Pomme - fragment 23",
+      "color": "red",
+      "local_rest_offset": [
+        0.35236769914627075,
+        0.6450178623199463,
+        2.3365371227264404
+      ],
+      "float_in_app": true
+    },
+    {
+      "particle": "18E | Pomme - bille blanche 16",
+      "source_fragment": "18E | Pomme - fragment 26",
+      "color": "white",
+      "local_rest_offset": [
+        -0.5034648776054382,
+        0.7265805006027222,
+        -1.3387409448623657
+      ],
+      "float_in_app": true
+    }
+  ],
+  "glucose": "18E | Pomme - glucose jaune suivi",
+  "effect": "mesh_dissolve",
+  "status": "prepared_in_blender_effect_pending_in_app",
+  "notes": "Drive a noise threshold shader from 0 to 1 over frames 100-130; reverse reveal on food particles. Keep fragment transforms, no scale shrink. Names and custom properties are export identifiers.",
+  "particle_layout": "3D_volume_front_middle_back",
+  "float_status": "pending_in_app",
+  "rounded_glucose_objects": [
+    "18E | Pomme - glucose jaune suivi",
+    "18E | Nutriment | glucose 1",
+    "18E | Glucose suivi"
+  ]
+}
