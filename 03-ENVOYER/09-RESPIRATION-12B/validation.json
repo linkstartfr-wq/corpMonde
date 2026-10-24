@@ -1,0 +1,139 @@
+{
+  "revision": "pbr-20261024-r1",
+  "decoded": true,
+  "parts": [
+    {
+      "name": "respiratory_p2_wall",
+      "vertices": 234648,
+      "triangles": 453315,
+      "coordinateBoundErrorMax": 3.259629011154175e-9,
+      "zeroUvTriangles": 0,
+      "minUvArea": 8.104628079763643e-14,
+      "maxPhysicalAreaOfZeroUv": 0
+    },
+    {
+      "name": "respiratory_p3_wall",
+      "vertices": 414267,
+      "triangles": 763436,
+      "coordinateBoundErrorMax": 1.3969838619232178e-9,
+      "zeroUvTriangles": 0,
+      "minUvArea": 5.329070518200751e-15,
+      "maxPhysicalAreaOfZeroUv": 0
+    },
+    {
+      "name": "respiratory_p4_wall",
+      "vertices": 1816,
+      "triangles": 3200,
+      "coordinateBoundErrorMax": 2.9103830456733704e-11,
+      "zeroUvTriangles": 0,
+      "minUvArea": 1.6751716458429655e-8,
+      "maxPhysicalAreaOfZeroUv": 0
+    },
+    {
+      "name": "respiratory_p7_wall",
+      "vertices": 9013,
+      "triangles": 15354,
+      "coordinateBoundErrorMax": 2.1100277081131935e-10,
+      "zeroUvTriangles": 0,
+      "minUvArea": 6.497224092072429e-9,
+      "maxPhysicalAreaOfZeroUv": 0
+    },
+    {
+      "name": "respiratory_p3_micro",
+      "vertices": 9,
+      "triangles": 8,
+      "coordinateBoundErrorMax": 0,
+      "zeroUvTriangles": 0,
+      "minUvArea": 0.02578326314687729,
+      "maxPhysicalAreaOfZeroUv": 0
+    },
+    {
+      "name": "respiratory_p3_closure",
+      "vertices": 795,
+      "triangles": 1267,
+      "coordinateBoundErrorMax": 2.9103830456733704e-11,
+      "zeroUvTriangles": 0,
+      "minUvArea": 7.753628139539614e-8,
+      "maxPhysicalAreaOfZeroUv": 0
+    }
+  ],
+  "images": [
+    {
+      "role": "wall",
+      "kind": "color",
+      "path": "textures/wall-color-4k.png",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 14302796
+    },
+    {
+      "role": "wall",
+      "kind": "roughness",
+      "path": "textures/wall-roughness-4k.png",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 5885212
+    },
+    {
+      "role": "wall",
+      "kind": "normal",
+      "path": "textures/wall-normal-4k.png",
+      "width": 4096,
+      "height": 4096,
+      "bytes": 9324427
+    },
+    {
+      "role": "micro",
+      "kind": "color",
+      "path": "textures/micro-color-128.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 6717
+    },
+    {
+      "role": "micro",
+      "kind": "roughness",
+      "path": "textures/micro-roughness-128.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 3914
+    },
+    {
+      "role": "micro",
+      "kind": "normal",
+      "path": "textures/micro-normal-128.png",
+      "width": 128,
+      "height": 128,
+      "bytes": 11275
+    },
+    {
+      "role": "closure",
+      "kind": "color",
+      "path": "textures/closure-color-1k.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1040195
+    },
+    {
+      "role": "closure",
+      "kind": "roughness",
+      "path": "textures/closure-roughness-1k.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 556549
+    },
+    {
+      "role": "closure",
+      "kind": "normal",
+      "path": "textures/closure-normal-1k.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 1395827
+    }
+  ],
+  "triangles": 1236580,
+  "geometryBytes": 9913732,
+  "preservedBaseModel": true,
+  "appRendererTested": false,
+  "fpsMeasured": false
+}

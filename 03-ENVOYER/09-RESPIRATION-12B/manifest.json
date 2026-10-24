@@ -1,0 +1,254 @@
+{
+  "schema": "corps-monde-respiratory-pbr/1",
+  "revision": "pbr-20261024-r1",
+  "geometry": "models/respiratory-walls-r1.glb",
+  "baseModelSha256": "959beae99f902ad820723113035cb55d5ec885fec9f9cf4ce0ee2a3adbcdb00a",
+  "baseObject": "Respiration | Bouche jusqu aux alveoles",
+  "basePrimitivesReplaced": [
+    2,
+    3,
+    4,
+    7
+  ],
+  "parts": [
+    {
+      "name": "respiratory_p2_wall",
+      "sourcePrimitive": 2,
+      "role": "wall",
+      "vertices": 227196,
+      "triangles": 453315,
+      "sourceBlenderBounds": [
+        [
+          -0.0017203916795551777,
+          -0.003851064946502447,
+          -0.007204430643469095
+        ],
+        [
+          0.00488407863304019,
+          0.0020650606602430344,
+          0.000027868936740560457
+        ]
+      ],
+      "uvBounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0.9999999403953552
+        ]
+      ],
+      "efface": false,
+      "float32UvTrianglesRepaired": 52,
+      "uvCornerDeltaMax": 2.086162567138672e-7
+    },
+    {
+      "name": "respiratory_p3_wall",
+      "sourcePrimitive": 3,
+      "role": "wall",
+      "vertices": 383006,
+      "triangles": 763436,
+      "sourceBlenderBounds": [
+        [
+          -0.0017810356803238392,
+          -0.00009325329301645979,
+          -0.009864415973424911
+        ],
+        [
+          0.0013816948048770428,
+          0.0009827669709920883,
+          -0.007195088546723127
+        ]
+      ],
+      "uvBounds": [
+        [
+          2.291376155483249e-8,
+          0.5029117465019226
+        ],
+        [
+          0.8415133953094482,
+          0.9478754997253418
+        ]
+      ],
+      "efface": false,
+      "float32UvTrianglesRepaired": 12,
+      "uvCornerDeltaMax": 1.7881393432617188e-7
+    },
+    {
+      "name": "respiratory_p4_wall",
+      "sourcePrimitive": 4,
+      "role": "wall",
+      "vertices": 1660,
+      "triangles": 3200,
+      "sourceBlenderBounds": [
+        [
+          -0.000502300332300365,
+          -0.00008838061330607161,
+          -0.009371604770421982
+        ],
+        [
+          -0.0002911840856540948,
+          -0.000006074982138670748,
+          -0.009147968143224716
+        ]
+      ],
+      "uvBounds": [
+        [
+          2.6187155555135178e-8,
+          0.7963241338729858
+        ],
+        [
+          0.7164877653121948,
+          0.9332736730575562
+        ]
+      ],
+      "efface": false,
+      "float32UvTrianglesRepaired": 0,
+      "uvCornerDeltaMax": 0
+    },
+    {
+      "name": "respiratory_p7_wall",
+      "sourcePrimitive": 7,
+      "role": "wall",
+      "vertices": 8250,
+      "triangles": 15354,
+      "sourceBlenderBounds": [
+        [
+          -0.0006726426654495299,
+          0.00021347965230233967,
+          -0.008868779987096786
+        ],
+        [
+          -0.00004810145037481561,
+          0.0005654041306115687,
+          -0.008156146854162216
+        ]
+      ],
+      "uvBounds": [
+        [
+          0.03210580348968506,
+          0.5703438520431519
+        ],
+        [
+          0.790328860282898,
+          0.9467061758041382
+        ]
+      ],
+      "efface": true,
+      "float32UvTrianglesRepaired": 0,
+      "uvCornerDeltaMax": 0
+    },
+    {
+      "name": "respiratory_p3_micro",
+      "sourcePrimitive": 3,
+      "role": "micro",
+      "vertices": 9,
+      "triangles": 8,
+      "sourceBlenderBounds": [
+        [
+          -0.0003279399243183434,
+          0.0002123324084095657,
+          -0.00905920285731554
+        ],
+        [
+          -0.00032162980642169714,
+          0.00021781768009532243,
+          -0.009052956476807594
+        ]
+      ],
+      "uvBounds": [
+        [
+          0.10000000000002274,
+          0.09999999999990905
+        ],
+        [
+          0.46370849609377274,
+          0.899926757812409
+        ]
+      ],
+      "efface": false,
+      "float32UvTrianglesRepaired": 0,
+      "uvCornerDeltaMax": 2.3841948859626427e-8
+    },
+    {
+      "name": "respiratory_p3_closure",
+      "sourcePrimitive": 3,
+      "role": "closure",
+      "vertices": 731,
+      "triangles": 1267,
+      "sourceBlenderBounds": [
+        [
+          -0.00046274453052319586,
+          0.00010517972259549424,
+          -0.008867749944329262
+        ],
+        [
+          -0.0003383431467227638,
+          0.00021559633023571223,
+          -0.00868925079703331
+        ]
+      ],
+      "uvBounds": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "efface": false,
+      "float32UvTrianglesRepaired": 0,
+      "uvCornerDeltaMax": 0
+    }
+  ],
+  "textures": {
+    "wall": {
+      "color": "textures/wall-color-4k.png",
+      "roughness": "textures/wall-roughness-4k.png",
+      "normal": "textures/wall-normal-4k.png"
+    },
+    "micro": {
+      "color": "textures/micro-color-128.png",
+      "roughness": "textures/micro-roughness-128.png",
+      "normal": "textures/micro-normal-128.png"
+    },
+    "closure": {
+      "color": "textures/closure-color-1k.png",
+      "roughness": "textures/closure-roughness-1k.png",
+      "normal": "textures/closure-normal-1k.png"
+    }
+  },
+  "sourceAppearance": "user-approved Blender prototype",
+  "keepBaseModelAndAnimations": true,
+  "effaceFrames": [
+    2121,
+    2125
+  ],
+  "textureFlipY": false,
+  "normalScale": 1,
+  "roughnessFactor": 1,
+  "shader": "MeshStandardMaterial",
+  "bakedClosure": [
+    {
+      "kind": "color",
+      "seconds": 2.4762937000050442,
+      "bytes": 1040195
+    },
+    {
+      "kind": "roughness",
+      "seconds": 2.027524299992365,
+      "bytes": 556549
+    },
+    {
+      "kind": "normal",
+      "seconds": 3.6260719999991124,
+      "bytes": 1395827
+    }
+  ],
+  "sourceBlendSha256": "e04fe5fc28bacc224c57839de3c5f1d4efc7e2bf88ae89d78178f38477d38df6",
+  "textureWrap": "ClampToEdgeWrapping",
+  "uvFloat32Repair": "Only collinear UV triangles receive subtexel coordinate corrections in export copies; geometry stays unchanged."
+}
