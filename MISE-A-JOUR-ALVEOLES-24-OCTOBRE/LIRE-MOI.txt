@@ -1,0 +1,18 @@
+MISE A JOUR GITHUB — ALVEOLES ALLEGEES
+
+UN SEUL ENVOI :
+1. Ouvrir le meme depot corpMonde, a sa racine.
+2. Add file > Upload files.
+3. Glisser le dossier 03-ENVOYER situe ici, puis Commit changes.
+
+Conserver le nom 03-ENVOYER et tous ses sous-dossiers.
+Ne pas glisser le dossier parent MISE-A-JOUR-ALVEOLES-24-OCTOBRE.
+Les anciens dossiers 01-ENVOYER et 02-ENVOYER restent en place : textures inchangees.
+Ne pas supprimer les autres fichiers du depot ni les anciens modeles.
+
+Cet envoi ajoute respiratory-walls-r2.glb et met a jour les metadonnees.
+Il ne change pas seul le rendu du site. Apres envoi, le code de l’app doit etre branche sur cette revision et sur le nouveau commit.
+
+Le .blend et les sauvegardes restent locaux ; ils ne font pas partie de cet envoi.
+Total : 6552414 octets. Modele : 6537844 octets.
+Export decode et verifie ; pas de nouvelle mesure FPS.

@@ -1,0 +1,106 @@
+{
+  "schema": "corps-monde-upload-delta/1",
+  "revision": "pbr-20261024-r2-one-branch",
+  "files": [
+    {
+      "path": "03-ENVOYER/09-RESPIRATION-12B/models/respiratory-walls-r2.glb",
+      "bytes": 6537844,
+      "sha256": "c8d9c5c2858b156a36a017096e5ed88cd7c50c751a9d484f76b92ce4e07f0a2f"
+    },
+    {
+      "path": "03-ENVOYER/09-RESPIRATION-12B/manifest.json",
+      "bytes": 7545,
+      "sha256": "16f6cecbb3c33ab2897e0655cfb3b9dee4e622ebabc78c33c353577dad7a6339"
+    },
+    {
+      "path": "03-ENVOYER/09-RESPIRATION-12B/validation.json",
+      "bytes": 6387,
+      "sha256": "fe2aebb0a5c182ada5004cfb16350448641a4f0f899b0d90493e46736130b832"
+    },
+    {
+      "path": "03-ENVOYER/09-RESPIRATION-12B/LIRE-MOI.md",
+      "bytes": 638,
+      "sha256": "6679fa4ce5e222100b6d68fb4a0d770ff1acea42686989d724ba1d85612b606d"
+    }
+  ],
+  "totalBytes": 6552414,
+  "triangles": 834904,
+  "textureDependencies": [
+    {
+      "role": "wall",
+      "kind": "color",
+      "path": "01-ENVOYER/09-RESPIRATION-12B/textures/wall-color-4k.png",
+      "sha256": "4925bc093759cb5ea3151e9fbd9627bccd7ff7012393f2692f8c408c07275298",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "wall",
+      "kind": "roughness",
+      "path": "02-ENVOYER/09-RESPIRATION-12B/textures/wall-roughness-4k.png",
+      "sha256": "8f099ff6ba2712a5169a95e7010c342464224b9b7e377a3e4509c178811ed371",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "wall",
+      "kind": "normal",
+      "path": "02-ENVOYER/09-RESPIRATION-12B/textures/wall-normal-4k.png",
+      "sha256": "7b78c3fb35240d53d2f297077e4d647efda38ad657be7d6f7a92f4e34b167409",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "micro",
+      "kind": "color",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/micro-color-128.png",
+      "sha256": "31c0a1a067e28cd915d77bbbfdfdcf2be6093033318361c7655ad1d88cf0315a",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "micro",
+      "kind": "roughness",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/micro-roughness-128.png",
+      "sha256": "27f6247013210a567e2c5069cc23c89e2c338207355291ee5c7ee04e59a1e1aa",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "micro",
+      "kind": "normal",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/micro-normal-128.png",
+      "sha256": "57fb94b9a55352f77c77c0307ccf5ae8e077ebdb6b4b758b0ea9a43b10cb0737",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "closure",
+      "kind": "color",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/closure-color-1k.png",
+      "sha256": "fe1b537d07cd745c86ad1e0832cc8fd7577f3ed06ae039e40da67973abbbd39a",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "closure",
+      "kind": "roughness",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/closure-roughness-1k.png",
+      "sha256": "bba098b2877b01543724148ca4199506e4b58ae7150a84d9bd879b4af83ca2e2",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    },
+    {
+      "role": "closure",
+      "kind": "normal",
+      "path": "03-ENVOYER/09-RESPIRATION-12B/textures/closure-normal-1k.png",
+      "sha256": "04d9671d23fe6442e01e7309fccb530d885d522b54348e1eea39d2e0a8739924",
+      "unchanged": true,
+      "alreadyPublishedAt": "733c60c858824f7dc218bbf29d7f440070b8e82d"
+    }
+  ],
+  "sourceBlendSha256": "5db2454f0e1b9615e7e88962489615e022f07d66d66d6d122506812c03d24286",
+  "published": false,
+  "appConnected": false,
+  "appCodeChangeRequired": true
+}
