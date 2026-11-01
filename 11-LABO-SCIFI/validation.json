@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "sha256": "db6c3b36ecc3fab0f39ec433083eeb09a0ba861f5108df5bc801b44b54f35b92",
+  "decodedPrimitives": 95,
+  "meshObjects": 165,
+  "trianglesInScene": 228748,
+  "allImagesEmbedded": true,
+  "allImagesUnchangedByCompression": true,
+  "animationDataUnchanged": true,
+  "maxLocalPositionComponentErrorMetres": 0.00017547607421875,
+  "maxWorldBoundsErrorMetres": 0.0000629425048828125,
+  "blenderTriangleCountChanges": [],
+  "sourceGeometryDecimated": false,
+  "exportCopyUvRepairs": [
+    "Labo_Mobilier_Ecran_Anatomie_1",
+    "Labo_Mobilier_Ecran_Anatomie_2"
+  ],
+  "appRendered": false
+}

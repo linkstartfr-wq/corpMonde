@@ -1,0 +1,60 @@
+{
+  "name": "Labo SciFi",
+  "version": "2026-11-01-draco",
+  "file": "labo_scifi.glb",
+  "repositoryPath": "11-LABO-SCIFI/labo_scifi.glb",
+  "bytes": 2914628,
+  "sha256": "db6c3b36ecc3fab0f39ec433083eeb09a0ba861f5108df5bc801b44b54f35b92",
+  "compression": {
+    "type": "KHR_draco_mesh_compression",
+    "level": 6,
+    "positionBits": 18,
+    "normalBits": 12,
+    "uvBits": 16
+  },
+  "uncompressedBytes": 7019364,
+  "reductionPercent": 58.47732073732036,
+  "nodes": 196,
+  "meshObjects": 165,
+  "uniqueMeshes": 95,
+  "trianglesInScene": 228748,
+  "uniqueTriangles": 172546,
+  "materials": 36,
+  "embeddedImages": 16,
+  "sourceImages": 11,
+  "derivedHologramAlphaImages": 5,
+  "animations": [
+    {
+      "name": "Ascenseur_Porte",
+      "channels": 2
+    },
+    {
+      "name": "Socle_Detachement",
+      "channels": 16
+    }
+  ],
+  "coordinateSystem": "glTF Y-up, metres",
+  "selfContained": true,
+  "source": {
+    "file": "labo_scifi.blend",
+    "sha256": "c1023d68df938fa0c7e5662b2f33664ba1f4485125e3a9403890e9917711920b",
+    "collection": "LABO_EXPORT"
+  },
+  "uvExportRepairs": [
+    "Labo_Mobilier_Ecran_Anatomie_1",
+    "Labo_Mobilier_Ecran_Anatomie_2"
+  ],
+  "license": {
+    "status": "user-provided",
+    "spdx": null
+  },
+  "validated": {
+    "dracoDecoded": true,
+    "blenderReimport": true,
+    "geometryCountsPreserved": true,
+    "animationDataPreserved": true,
+    "appRendered": false,
+    "materialsExactAgainstUncompressed": true,
+    "imageBytesExactAgainstUncompressed": true
+  }
+}
